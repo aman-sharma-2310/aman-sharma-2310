@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aman 👋
 
-<!--
-**aman-sharma-2310/aman-sharma-2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | Python & Tkinter | React & Firebase Learner  
+🚀 Building real-world projects and learning by doing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- HTML, CSS, JavaScript
+- Firebase
+- Python, Tkinter
+- Git & GitHub
+
+---
+
+## 📈 GitHub Stats
+![Aman's GitHub stats](https://github.com/aman-sharma-2310/aman-sharma-2310/edit/main/README.md)
+---
+
+## 🌱 Currently Learning
+Flutter • Firebase • Advanced JavaScript
+
+---
+
+## 📫 Connect with me
+- LinkedIn: 
